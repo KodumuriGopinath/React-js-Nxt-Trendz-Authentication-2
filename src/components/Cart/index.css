@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.cart-image {
+  width: 300px;
+}
+.cart-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
